@@ -12,14 +12,14 @@
   </a>
 </p>
 
-> I am developing a readme generator through the use of command lines only.
+> I am developing a readme generator through the use of command lines only. This README was also generated through the use of the "readme-md-generator" CLI found on NPM. 
 
 ### 🏠 [Homepage](https://github.com/kayywan/readmegnerator#readme)
 
 ## Install
 
 ```sh
-npm install
+'npm install' or 'npx readme-md-generator'
 ```
 
 ## Run tests
