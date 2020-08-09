@@ -1,0 +1,15 @@
+{
+  "name": "readmegenerator",
+  "version": "1.0.0",
+  "description": "I am developing a readme generator using command lines only.",
+  "main": "index.js",
+  "dependencies": {
+    "readme-md-generator": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Keith Wan",
+  "license": "ISC"
+}
