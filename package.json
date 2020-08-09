@@ -11,5 +11,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Keith Wan",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kayywan/readmegnerator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kayywan/readmegnerator/issues"
+  },
+  "homepage": "https://github.com/kayywan/readmegnerator#readme"
 }
